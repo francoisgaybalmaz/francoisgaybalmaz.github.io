@@ -1,6 +1,19 @@
 # jemdoc: menu{MENU}{members.html}, nofooter 
 = Research Group
 
+== Visiting Professor
+
+~~~
+{}{img_left}{Pictures/photo.png}{alt text}{120}{140}{}
+[https://www.researchgate.net/profile/Wen-An-Jiang *Wen-An Jiang*] (Spring 2026 - present) \n
+
+Home Institution: Jiangsu University, China
+Research Interest: XXX \n
+Email: [wajiang@ujs.edu.cn wajiang@ujs.edu.cn] \n
+Homepage: [https://www.researchgate.net/profile/Wen-An-Jiang https://www.researchgate.net/profile/Wen-An-Jiang]
+~~~
+
+
 == Postdocs
 ~~~
 {}{img_left}{Pictures/Zohreh.png}{alt text}{120}{140}{}
@@ -46,7 +59,7 @@ Homepage: [https://mengs.squarespace.com https://mengs.squarespace.com]
 {}{img_left}{Pictures/photo.png}{alt text}{120}{140}{}
 [ *Shawn Tay Zikai*] (Winter 2026 - present)\n
 
-Research Interest:  Mathematical Physics, Relativity\n
+Research Interest:  Relativistic fluids, Mathematical Physics\n
 Email: [SH0006AI@e.ntu.edu.sg SH0006AI@e.ntu.edu.sg] 
 ~~~
 
@@ -83,7 +96,7 @@ Email: [n2505233f@e.ntu.edu.sg n2505233f@e.ntu.edu.sg]
 
 == Former Members
 
-At [https://francoisgaybalmaz.github.io/members.html NTU]
+At [https://francoisgaybalmaz.github.io/members.html Nanyang Technological University]
 
 
 ~~~
