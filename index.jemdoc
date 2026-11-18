@@ -30,7 +30,10 @@ François Gay-Balmaz is an Associate Professor in Mathematics at [https://www.nt
 
 == Open Positions
 
-=== {{<span style="color:#1765A3;">PhD Positions</span>}}
+~~~
+{}{raw}
+<h3 style="color:#1765A3;">PhD Positions</h3>
+~~~
 
 Two fully funded PhD positions are currently available in the following research areas:
 
@@ -43,7 +46,10 @@ There are two application periods each year: *October to January* (for admission
 
 General information: [https://www.ntu.edu.sg/spms/about-us/mathematics/grad/phd PhD programme] and [https://www.ntu.edu.sg/admissions/graduate/financialmatters/scholarships/rss Scholarships].
 
-=== {{<span style="color:#1765A3;">Postdoctoral Positions</span>}}
+~~~
+{}{raw}
+<h3 style="color:#1765A3;">Postdoctoral Positions</h3>
+~~~
 
 Two Postdoctoral opportunities are available in our research group in the areas of *structure-preserving modelling, numerical discretization, and machine learning*, with applications to geophysical fluid dynamics, atmospheric and oceanic flows, irreversible processes, and thermodynamics.
 
